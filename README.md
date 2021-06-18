@@ -36,5 +36,5 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoDeGregorio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco_DeGregorio&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDeGregorio&theme=tokyonight)
 
