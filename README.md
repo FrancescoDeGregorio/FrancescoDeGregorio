@@ -32,7 +32,8 @@
 </p>
 
 <br />
-## 🧰Github Stats:
+
+## 🧰 Languages and Tools:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoDeGregorio&show_icons=true&theme=tokyonight)
