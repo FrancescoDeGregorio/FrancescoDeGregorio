@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Francesco Paolo De Gregorio
+### Hi there 👋 I'm Francesco Paolo
 ![](https://visitor-badge.laobi.icu/badge?page_id=FrancescoDeGregorio.FrancescoDeGregorio)
 
 
